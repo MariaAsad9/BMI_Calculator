@@ -21,5 +21,5 @@ The BMI Calculator application helps users calculate their Body Mass Index (BMI)
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <(https://github.com/MariaAsad9/BMI_Calculator.git)>
+   git clone https://github.com/MariaAsad9/BMI_Calculator.git
    cd bmi-calculator
